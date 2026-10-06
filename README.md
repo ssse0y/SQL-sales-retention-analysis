@@ -156,6 +156,5 @@ Cohort별 재구매율을 비교하여
 sql/
 ├── 01_data_quality_check.sql
 ├── 02_monthly_sales_metrics.sql
-├── 03_guest_customer_analysis.sql
-├── 04_retention_analysis.sql
-└── 05_cohort_analysis.sql
+├── 03_retention_analysis.sql
+└── 04_guest_customer_analysis.sql
